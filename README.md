@@ -1,6 +1,6 @@
 # Hello there, I am Nikhil Kumar!
 
-I am an energetic developer, currently attempting to broaden my horizon in this world of zeroes and ones.
+I am an energetic developer, currently attempting to broaden my horizon in the world of zeroes and ones.
 
 Hope you like my work :blush: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-blllitz&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-blllitz" /> </p>
